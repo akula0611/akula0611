@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at amrita vishwa vidyapeetham 
 - 🌱 I’m currently learning sql
-- 👯 I’m looking to collaborate on ML,AI or Data Science 
+- 👯 I’m looking to collaborate on ML,AI or Data Science related projects
 - 🤔 I’m looking for help with web application and basic UI
 - 💬 Ask me about ML
 - 📫 How to reach me: sudhamshakula6@gmail.com
